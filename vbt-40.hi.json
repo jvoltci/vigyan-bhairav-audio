@@ -1,0 +1,17 @@
+{
+ "room": 40,
+ "track": "hi",
+ "voice": "enceladus",
+ "file": "vbt-40.hi.opus",
+ "dur": 27.48,
+ "verses": [
+  {
+   "v": 1,
+   "t": 0.0
+  },
+  {
+   "v": 2,
+   "t": 14.44
+  }
+ ]
+}
